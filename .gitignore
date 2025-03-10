@@ -1,0 +1,3 @@
+# Ignore data files
+data/raw_state/
+data/processed_state/
