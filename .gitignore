@@ -1,3 +1,6 @@
 # Ignore data files
-data/raw_state/
-data/processed_state/
+data/raw_state/*
+data/processed_state/*
+
+!data/raw_state/.gitkeep
+!data/processed_state/.gitkeep
