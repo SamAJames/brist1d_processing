@@ -1,6 +1,9 @@
 # BrisT1D Dataset - `device_data` Processing Notebook  
 This repository contains a Jupyter Notebook used to process the `raw_state` device data in the BrisT1D Dataset to the `processed_state` device data.
 
+## Link to BrisT1D Dataset
+_The BrisT1D will soon be published on the University of Bristol Data Repository_
+
 ## Repository Structure  
 ```
 brist1d_processing/
@@ -60,5 +63,5 @@ Run each cell to process the raw data.
 5. **Aggregate data** insulin and activity data to 5-minute intervals.  
 6. **Save processed data** in `/data/processed_state/` for analysis.  
 
-## License  
-This project is licensed under the CC-BY-4.0 License. 
+## License
+This project is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE).
