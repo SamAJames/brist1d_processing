@@ -3,6 +3,7 @@ This repository contains a Jupyter Notebook used to process the `raw_state` devi
 
 ## Link to BrisT1D Dataset
 BrisT1D-Open - https://doi.org/10.5523/bris.33z5jc8fa6tob21ptrugzqog08
+
 BrisT1D-Restricted - https://doi.org/10.5523/bris.yonrplcb4bvi2vhhn2ehtmpey
 
 ## Repository Structure  
