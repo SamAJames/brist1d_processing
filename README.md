@@ -2,7 +2,8 @@
 This repository contains a Jupyter Notebook used to process the `raw_state` device data in the BrisT1D Dataset to the `processed_state` device data.
 
 ## Link to BrisT1D Dataset
-_The BrisT1D will soon be published on the University of Bristol Data Repository_
+BrisT1D-Open - https://doi.org/10.5523/bris.33z5jc8fa6tob21ptrugzqog08
+BrisT1D-Restricted - https://doi.org/10.5523/bris.yonrplcb4bvi2vhhn2ehtmpey
 
 ## Repository Structure  
 ```
